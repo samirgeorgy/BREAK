@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 81f4dddb28f8e46cb990c5567b4dbd54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_2
+    100004: Hip
+    100006: Hip_2
+    100008: Joint_3
+    100010: Joint_3_2
+    100012: Joint_4
+    100014: Joint_5
+    100016: L_Arm
+    100018: L_Arm_2
+    100020: L_Foot
+    100022: L_Foot_2
+    100024: L_Knee
+    100026: L_Knee_2
+    100028: L_Leg
+    100030: L_Leg_2
+    100032: //RootNode
+    100034: R_Arm
+    100036: R_Arm_2
+    100038: R_Foot
+    100040: R_Foot_2
+    100042: R_Knee
+    100044: R_Knee_2
+    100046: R_Leg
+    100048: R_Leg_2
+    100050: Root
+    400000: Body
+    400002: Body_2
+    400004: Hip
+    400006: Hip_2
+    400008: Joint_3
+    400010: Joint_3_2
+    400012: Joint_4
+    400014: Joint_5
+    400016: L_Arm
+    400018: L_Arm_2
+    400020: L_Foot
+    400022: L_Foot_2
+    400024: L_Knee
+    400026: L_Knee_2
+    400028: L_Leg
+    400030: L_Leg_2
+    400032: //RootNode
+    400034: R_Arm
+    400036: R_Arm_2
+    400038: R_Foot
+    400040: R_Foot_2
+    400042: R_Knee
+    400044: R_Knee_2
+    400046: R_Leg
+    400048: R_Leg_2
+    400050: Root
+    2100000: No Name
+    4300000: Hip_2
+    4300002: Body_2
+    4300004: R_Arm_2
+    4300006: L_Arm_2
+    4300008: L_Leg_2
+    4300010: L_Knee_2
+    4300012: L_Foot_2
+    4300014: R_Leg_2
+    4300016: R_Knee_2
+    4300018: R_Foot_2
+    9500000: //RootNode
+    13700000: Body_2
+    13700002: Hip_2
+    13700004: L_Arm_2
+    13700006: L_Foot_2
+    13700008: L_Knee_2
+    13700010: L_Leg_2
+    13700012: R_Arm_2
+    13700014: R_Foot_2
+    13700016: R_Knee_2
+    13700018: R_Leg_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 78a5b9f666ac946cdb54afa9d754b623, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
