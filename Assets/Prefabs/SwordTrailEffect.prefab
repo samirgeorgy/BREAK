@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b06dd3d9c959e94e86812eac2bb5de6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _destroyAfter: 5
+  _destroyAfter: 0.6
 --- !u!1 &6814083871119946334
 GameObject:
   m_ObjectHideFlags: 0
@@ -87,7 +87,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6814083871119946334}
   serializedVersion: 6
-  lengthInSec: 3
+  lengthInSec: 0.5
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -4876,7 +4876,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6814083871586794497
 Transform:
   m_ObjectHideFlags: 0
@@ -9688,7 +9688,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6814083872245385625
 Transform:
   m_ObjectHideFlags: 0

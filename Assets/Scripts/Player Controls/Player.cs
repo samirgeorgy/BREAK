@@ -354,7 +354,8 @@ public class Player : MonoBehaviour
         else if (rand == 2)
             _anim.SetTrigger("Swing02");
 
-        Instantiate(_swordSwingTrail, _swordTrailPosition.position, Quaternion.identity);
+        GameObject trail = Instantiate(_swordSwingTrail, _swordTrailPosition.position, Quaternion.identity);
+        trail.transform.parent = _swordTrailPosition;
     }
 
     private void ShootEnergyBlast()
